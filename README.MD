@@ -2,8 +2,6 @@
 
 **AYTRO GEN** is a Python-based terminal application for generating synthetic test data through a simple, menu-driven interface.
 
-> ⚠️ **For testing and development only.**  
-> Do not use synthetic data or this software for unauthorized transactions, fraud, payment-system abuse, identity theft, or any other illegal activity.
 
 ---
 
